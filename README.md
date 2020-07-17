@@ -31,3 +31,4 @@ If you love Deep-Learning do check out my python library namely [Satellite-Class
   <a href="https://www.linkedin.com/in/javin-bachani"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://jarvis-bits.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
+Ps: Star repositories if you like them and do give a follow, helps alot :smiley:
