@@ -20,9 +20,11 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
 </ul>
 </details>
 
+
+
 If you love Deep-Learning do check out my python library namely [Satellite-Classification](https://github.com/Jarvis-BITS/DL-SatelliteImg-Classification)   
 
-![Javin's github](https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&show_icons=true&hide_border=true)
+![Javin's github](https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&show_icons=true&hide_border=false)
 
 <p align="center">
   Hit me up on: :bowtie: <br><br>
