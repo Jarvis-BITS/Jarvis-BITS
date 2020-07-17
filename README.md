@@ -12,26 +12,22 @@
 <details>
 <summary> <b>Jokes apart, Here's a list of things I take pride in</b> <i>(click to expand!)</i> </summary>
 <br>
-Here are few profiles you may be interested to stalk
+Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_eye:
 <ul>
  <li> I work under the team <a href="https://kratosbitsgoa.com/">Project Kratos</a> :heart: </li>
- <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/">ERC</a> :heart: </li>
- <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30">blogs</a> sometimes</li>
+ <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/">ERC</a> :robot: </li>
+ <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30">blogs</a> sometimes :page_with_curl:</li>
 </ul>
 </details>
 
-If you love Deep-Learning do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
-Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools) 
+If you love Deep-Learning do check out my python library namely [Satellite-Classification](https://github.com/Jarvis-BITS/DL-SatelliteImg-Classification)   
 
-![deuterium's github](https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&show_icons=true&hide_border=true)
+![Javin's github](https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&show_icons=true&hide_border=true)
 
 <p align="center">
-  Hit me up on: :bowtie: <br>
+  Hit me up on: :bowtie: <br><br>
  <a href="mailto:javinben@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/Jarvis-BITS"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/javin-bachani"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <!--<a href="https://discord.com/users/deuterium#1689"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/0xdeuterium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;-->
   <a href="https://jarvis-bits.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
