@@ -10,7 +10,7 @@
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: Javin means fast like a deer
 
 <details>
-<summary> <b>Jokes apart, Here's a list of things I work & take pride in</b> <i>(click to expand!)</i> </summary>
+<summary> <b>Jokes apart, Here's a bunch of things I work & take pride in</b> <i>(click to expand!)</i> </summary>
 <br>
 Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_eye:
 <ul>
