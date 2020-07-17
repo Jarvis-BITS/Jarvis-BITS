@@ -18,6 +18,16 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
  <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/">ERC</a> :robot: </li>
  <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30">blogs</a> sometimes :page_with_curl:</li>
 </ul>
+  
+### My Tech Stack:
+
+#### Applications & Data:
+
+
+#### DevOps:
+
+#### Tools/Utilities:
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/git%20(1).png" width="40vw"/> 
 </details>
 
 
