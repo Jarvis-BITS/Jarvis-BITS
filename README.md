@@ -17,9 +17,6 @@ Here are few profiles you may be interested to stalk
  <li> I work under the team <a href="https://kratosbitsgoa.com/">Project Kratos</a> :heart: </li>
  <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/">ERC</a> :heart: </li>
  <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30">blogs</a> sometimes</li>
- <li> I am currently working on a ctf <a href="https://deut-erium.github.io/ctf-tutorials">tutorial</a></li>
- <li> I have been learning recently on <a href="https://tryhackme.com/p/deuterium">TryHackMe</a> and its fun! </li>
- <li> Check out my Hacker Rank on <a href="https://www.wechall.net/profile/deuterium">WeChall</a> and other linked profiles there :wink: </li>
 </ul>
 </details>
 
@@ -38,4 +35,3 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
   <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;-->
   <a href="https://jarvis-bits.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
-⭐️
