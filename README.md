@@ -38,6 +38,4 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
   <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;-->
   <a href="https://jarvis-bits.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
-
-
-⭐️ From [Jarvis-BITS](https://github.com/Jarvis-BITS)
+⭐️
