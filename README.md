@@ -18,16 +18,21 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
  <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/">ERC</a> :robot: </li>
  <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30">blogs</a> sometimes :page_with_curl:</li>
 </ul>
-  
-### My Tech Stack:
+<img alt="icons" src="" width="60vw"/> 
 
-#### Applications & Data:
+## My Tech Stack:
 
+### Applications & Data:
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/python%20(1).png" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/c-plus.png" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/flutter.png" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/dart.png" width="60vw"/> 
 
-#### DevOps:
+### Frontend: 
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/javascript.png" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/html.png" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/css.png" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/php.png" width="60vw"/> 
 
-#### Tools/Utilities:
-<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/git%20(1).png" width="40vw"/> 
+### DevOps:
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/amazon.png" width="90vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/azure_service.jpg" width="120vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/docker.png" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/Android-Studio-Logo-Icon.png" width="110vw"/>
+
+### Tools/Utilities:
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/PowerBI-Logo.png" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/git%20(1).png" width="60vw"/>    <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/visual-studio-code.png" width="40vw"/> 
 </details>
 
 
