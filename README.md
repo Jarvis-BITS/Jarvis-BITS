@@ -2,7 +2,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" target="_blank" />
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" /> I’m currently working on Natural Language Processing and Cloud Computing 
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" target="_blank" width="20vw" /> I’m currently learning Cyber Security, App Dev,DSA, Blockchain & annoy people with <img alt=Javin src="https://komarev.com/ghpvc/?username=Jarvis-BITS" target="_blank" target="_blank"/>
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" target="_blank" width="20vw" /> I’m currently learning Cyber Security, App Dev,DSA, Blockchain & annoy people with <img alt=Javin src="https://komarev.com/ghpvc/?username=Jarvis-BITS" target="_blank"/>
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" target="_blank" width="20vw" /> I’m looking to collaborate on cool Open Source Projects
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" target="_blank" /> ’m looking for help with ROS & Path finding algorithims 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" width="20vw" /> Giving your friends spoilers about their novels is a bad idea
