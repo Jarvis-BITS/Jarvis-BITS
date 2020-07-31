@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" target="_blank" />
 
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" /> I’m currently working on Natural Language Processing and Cloud Computing 
+<!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" /> I’m currently working on Natural Language Processing and Cloud Computing -->
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" target="_blank" width="20vw" /> I’m currently learning Cyber Security, App Dev,DSA, Blockchain & annoy people with <img alt=Javin src="https://komarev.com/ghpvc/?username=Jarvis-BITS" target="_blank"/>
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" target="_blank" width="20vw" /> I’m looking to collaborate on cool Open Source Projects
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" target="_blank" /> ’m looking for help with ROS & Path finding algorithims 
+<!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" target="_blank" /> ’m looking for help with ROS & Path finding algorithims -->
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" width="20vw" /> Giving your friends spoilers about their novels is a bad idea
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" target="_blank" width="20vw" /> Pronouns: [Senpai](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai#:~:text=Senpai%20refers%20to%20the%20member,respect%2C%20and%20occasionally%20personal%20loyalty.)
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" target="_blank"/> Fun fact: Javin means fast like a deer
@@ -18,7 +18,6 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
  <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/" target="_blank">ERC</a> :robot: </li>
  <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30" target="_blank">blogs</a> sometimes :page_with_curl:</li>
 </ul>
-<!-- <img alt="icons" src="" width="60vw"/> -->
 
 ## My Tech Stack:
 
@@ -34,8 +33,6 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
 ### Tools/Utilities:
 <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/postman.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/git%20(1).png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/PowerBI-Logo.png" target="_blank" width="70vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/visual-studio-code.png" target="_blank" width="50vw"/> 
 </details>
-
-
 
 If you love Deep-Learning do check out my python library namely [Satellite-Classification](https://github.com/Jarvis-BITS/DL-SatelliteImg-Classification)   
 
