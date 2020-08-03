@@ -2,11 +2,11 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" target="_blank" />
 
 <!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" /> I’m currently working on Natural Language Processing and Cloud Computing -->
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" target="_blank" width="20vw" /> I’m currently learning Cyber Security, App Dev,DSA, Blockchain & annoy people with <img alt=Javin src="https://komarev.com/ghpvc/?username=Jarvis-BITS" target="_blank"/>
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" target="_blank" width="20vw" /> I’m looking to collaborate on cool Open Source Projects
-<!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" target="_blank" /> ’m looking for help with ROS & Path finding algorithims -->
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" width="20vw" /> Giving your friends spoilers about their novels is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" target="_blank" width="20vw" /> Pronouns: [Senpai](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai#:~:text=Senpai%20refers%20to%20the%20member,respect%2C%20and%20occasionally%20personal%20loyalty.)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" target="_blank" width="20vw" /> I’m currently learning *\*insert trendy CS term here*\* & annoy people with <img alt=Javin src="https://komarev.com/ghpvc/?username=Jarvis-BITS" target="_blank"/>
+<!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" target="_blank" width="20vw" /> I’m looking to collaborate on cool Open Source Projects
+<img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" target="_blank" /> ’m looking for help with ROS & Path finding algorithims
+<img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" target="_blank" width="20vw" /> Pronouns: [Senpai](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai#:~:text=Senpai%20refers%20to%20the%20member,respect%2C%20and%20occasionally%20personal%20loyalty.)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" width="20vw" /> Giving your friends spoilers about their novels is a bad idea--->
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" target="_blank"/> Fun fact: Javin means fast like a deer
 
 <details>
@@ -34,12 +34,12 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
 <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/postman.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/git%20(1).png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/PowerBI-Logo.png" target="_blank" width="70vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/visual-studio-code.png" target="_blank" width="50vw"/> 
 </details>
 
-If you love Deep-Learning do check out my python library namely [Satellite-Classification](https://github.com/Jarvis-BITS/DL-SatelliteImg-Classification)   
+<!--If you love Deep-Learning do check out my python library namely [Satellite-Classification](https://github.com/Jarvis-BITS/DL-SatelliteImg-Classification)   -->
 
 ![Javin's github](https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&hide_border=false&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="center">
-  Hit me up on: :bowtie: <br><br>
+  Hit me up on: <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" width="20vw" /> <br><br>
  <a href="mailto:javinben@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail" target="_blank"></a> &nbsp; &nbsp;
    <a href="https://github.com/Jarvis-BITS"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/javin-bachani"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn" target="_blank"></a> &nbsp; &nbsp;
