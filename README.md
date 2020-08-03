@@ -1,15 +1,14 @@
 ### Hi there <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" target="_blank" />
-  <img align="right" alt="Javin's github stats" src="https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&hide_border=false&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="470vw">
+  <img align="right" alt="Javin's github stats" src="https://github-readme-stats.vercel.app/api?username=Jarvis-BITS&hide_border=false&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="483vw">
 
-
-<!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" /> I’m currently working on Natural Language Processing and Cloud Computing -->
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" target="_blank" width="20vw" /> I’m currently learning *\*insert trendy CS term here*\* & annoy people with <img alt=Javin src="https://komarev.com/ghpvc/?username=Jarvis-BITS" target="_blank"/>
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" target="_blank"/> Fun fact: Javin means fast like a deer
+<!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" target="_blank" width="20vw" /> I’m currently working on Natural Language Processing and Cloud Computing -->
 <!--- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" target="_blank" width="20vw" /> I’m looking to collaborate on cool Open Source Projects
 <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" target="_blank" /> ’m looking for help with ROS & Path finding algorithims
 <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" target="_blank" width="20vw" /> Pronouns: [Senpai](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai#:~:text=Senpai%20refers%20to%20the%20member,respect%2C%20and%20occasionally%20personal%20loyalty.)
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" width="20vw" /> Giving your friends spoilers about their novels is a bad idea--->
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" target="_blank"/> Fun fact: Javin means fast like a deer
 <details>
 <summary> <b>Jokes apart, Here's a bunch of things I work & take pride in</b> <i>(click to expand!)</i> </summary>
 <br>
