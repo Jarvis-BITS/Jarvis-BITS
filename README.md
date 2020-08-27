@@ -21,17 +21,17 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
 
 ## My Tech Stack:
 
-### Applications & Data:
-<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/python%20(1).png" target="_blank" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/c-plus.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/flutter.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/dart.png" target="_blank" width="60vw"/> 
+### Languages:
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/python%20(1).png" target="_blank" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/c-plus.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/flutter.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/dart.png" target="_blank" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/typescript.png" target="_blank" width="60vw"/>
 
 ### Frontend: 
 <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/javascript.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/html.png" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/css.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/php.png" target="_blank" width="60vw"/> 
 
 ### DevOps:
-<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/amazon.png" target="_blank" width="90vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/azure_service.jpg" target="_blank" width="110vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/docker.png" width="90vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/Android-Studio-Logo-Icon.png" target="_blank" width="150vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/firebase.png" width="60vw" />
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/amazon.png" target="_blank" width="90vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/azure_service.jpg" target="_blank" width="110vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/docker.png" width="90vw"/>  <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/firebase.png" width="60vw" />
 
 ### Tools/Utilities:
-<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/postman.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/git%20(1).png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/PowerBI-Logo.png" target="_blank" width="70vw"/>
+<img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/postman.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/mongodb.png" target="_blank" width="160vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/mysql.png" target="_blank" width="135vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/PowerBI-Logo.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/Android-Studio-Logo-Icon.png" target="_blank" width="165vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/git%20(1).png" target="_blank" width="80vw"/>
 </details>
 <!--If you love Deep-Learning do check out my python library namely [Satellite-Classification](https://github.com/Jarvis-BITS/DL-SatelliteImg-Classification)-->
 
