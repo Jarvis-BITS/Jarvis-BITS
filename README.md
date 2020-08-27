@@ -16,7 +16,7 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
 <ul>
  <li> I work under the team <a href="https://kratosbitsgoa.com/" target="_blank">Project Kratos</a> :heart: </li>
  <li> If you love robotics, then find out more about my club here: <a href="https://erc-bpgc.github.io/" target="_blank">ERC</a> :robot: </li>
- <li> I write technical <a href="https://medium.com/@ieeegoa/the-invisible-race-off-between-your-devices-and-the-wi-fi-1c3fe9ad4f30" target="_blank">blogs</a> sometimes :page_with_curl:</li>
+ <li> I write technical <a href="https://jarvis-bits.github.io/#blog-section" target="_blank">blogs</a> sometimes :page_with_curl:</li>
 </ul>
 
 ## My Tech Stack:
