@@ -21,7 +21,7 @@ Here are few profiles you may be interested to stalk :stuck_out_tongue_winking_e
 
 ## My Tech Stack:
 
-### Languages:
+### Languages & Applications:
 <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/python%20(1).png" target="_blank" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/c-plus.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/flutter.png" target="_blank" width="60vw"/><img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/dart.png" target="_blank" width="60vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/typescript.png" target="_blank" width="60vw"/>
 
 ### Frontend: 
