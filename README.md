@@ -34,7 +34,7 @@ Wanna stalk? :stuck_out_tongue_winking_eye:
 <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/postman.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/mongodb.png" target="_blank" width="160vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/mysql.png" target="_blank" width="135vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/PowerBI-Logo.png" target="_blank" width="80vw"/> <img alt="icons" src="https://github.com/Jarvis-BITS/Jarvis-BITS/blob/master/Icons/git%20(1).png" target="_blank" width="80vw"/>
 </details>
 
-<p align="center">Hit me up on: <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" size=10px width="10vw" />
+<p align="center">Hit me up on: <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" target="_blank" size=10px width="20px" />
 <br>
 <a href="mailto:bachani.javin@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail" target="_blank"></a> &nbsp; &nbsp; <a href="https://github.com/Jarvis-BITS"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/javin-bachani"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn" target="_blank"></a> &nbsp; &nbsp;
